@@ -1,7 +1,5 @@
-
+package summer2k17;
 import java.util.Scanner;
-
-
 
 public class Hackerrank1 {
     public static void main(String[] args) {
